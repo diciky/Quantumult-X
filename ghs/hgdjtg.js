@@ -4,8 +4,8 @@
  *************************************************/
 
 // ============== 用户配置区 ==============
-const TG_BOT_TOKEN = '7855985588:AAGK2ViCUJ7V3T0ILfVu9Y_mH7ohMueGQ_Q';   // 例如 '123456:ABC-DEF...'
-const TG_CHAT_ID   = '615346634';   // 例如 '123456789'
+const TG_BOT_TOKEN = '3T0ILfVu9Y_mH7ohMueGQ_Q';   // 例如 '123456:ABC-DEF...'
+const TG_CHAT_ID   = '6';   // 例如 '123456789'
 // =======================================
 
 const _origUrl = $request.url;
