@@ -13,7 +13,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https?:\/\/[^\/]+\.(cloudfront\.net|lkkwip\.cn)\/api\/app\/vid\/h5\/m3u8\/.* url script-request-header 黄果短剧 解锁 + Telegram 通知.js
+^https?:\/\/.*(cloudfront\.net|lkkwip\.cn)\/api\/app\/vid\/h5\/m3u8\/ url script-request-header hgdj_tg.js
 
 [mitm]
 
