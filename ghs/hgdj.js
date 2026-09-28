@@ -13,7 +13,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https?:\/\/.*(cloudfront\.net|lkkwip\.cn)\/api\/app\/vid\/h5\/m3u8\/ url script-request-header hgdj_tg.js
+^https?:\/\/.*(cloudfront\.net|lkkwip\.cn)\/api\/app\/vid\/h5\/m3u8\/ url script-request-header https://raw.githubusercontent.com/diciky/Quantumult-X/main/ghs/hgdj.js
 
 [mitm]
 
